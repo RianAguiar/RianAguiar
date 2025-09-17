@@ -1,5 +1,5 @@
 # 🐸 Uébiti:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryanwith.i) 
+[![Instagram](https://img.shields.io/badge/Instagram-%2328a745.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryanwith.i) 
 # 🐸 Wha I've been Learning:
 ![HTML5](https://img.shields.io/badge/html5-%2328a745.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%2328a745.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%2328a745.svg?style=for-the-badge&logo=javascript&logoColor=white)  ![React](https://img.shields.io/badge/react-%2328a745.svg?style=for-the-badge&logo=react&logoColor=white) ![Django](https://img.shields.io/badge/django-%2328a745.svg?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-%2328a745?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2328a745.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%2328a745.svg?style=for-the-badge&logo=github&logoColor=white)
 # 🤓 GitHub Stats:
