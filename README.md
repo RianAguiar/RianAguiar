@@ -20,8 +20,7 @@
 
 
 <p align="center">
-  <a href="https://emoji.gg/emoji/209453-gun-froggo#">
-    <img src="https://cdn3.emoji.gg/emojis/209453-gun-froggo.gif" width="300px" height="128px">
+    <img src="https://cdn3.emoji.gg/emojis/572491-eyeballfrogoot.gif" width="64px" height="64px" alt="EyeballFrogOOT"></a>
   </a>
 </p>
 
