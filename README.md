@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://emoji.gg/emoji/209453-gun-froggo#">
-    <img src="https://cdn3.emoji.gg/emojis/209453-gun-froggo.gif" width="500px" height="128px">
+    <img src="https://cdn3.emoji.gg/emojis/209453-gun-froggo.gif" width="800px" height="128px">
   </a>
 </p>
 
