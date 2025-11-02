@@ -11,10 +11,10 @@
 ![React](https://img.shields.io/badge/react-%2328a745.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%2328a745.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2328a745.svg?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2328a745.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%2328a745.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%2328a745.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2328a745.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2328a745.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
