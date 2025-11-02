@@ -6,3 +6,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=RianAguiar&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RianAguiar&theme=shadow_green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RianAguiar&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+<p align="center">
+  <a href="https://emoji.gg/emoji/209453-gun-froggo#">
+    <img src="https://cdn3.emoji.gg/emojis/209453-gun-froggo.gif" width="128px" height="128px">
+  </a>
+</p>
