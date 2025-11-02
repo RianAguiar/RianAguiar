@@ -20,7 +20,7 @@
 
 
 <p align="center">
-    <img src="https://cdn3.emoji.gg/emojis/572491-eyeballfrogoot.gif" width="300px" height="128px" alt="EyeballFrogOOT"></a>
+    <img src="https://cdn3.emoji.gg/emojis/572491-eyeballfrogoot.gif" width="400px" height="128px" alt="EyeballFrogOOT"></a>
   </a>
 </p>
 
