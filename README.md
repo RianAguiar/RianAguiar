@@ -28,6 +28,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=RianAguiar&theme=vue&hide_border=false&background=00000000&title_color=28a745&text_color=28a745)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RianAguiar&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000&title_color=28a745&text_color=28a745)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rianaguiar&show_icons=true&locale=en&layout=compact" alt="rianaguiar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RianAguiar&show_icons=true&locale=en&layout=compact" alt="RianAguiar" /></p>
 
 
