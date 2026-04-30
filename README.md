@@ -15,6 +15,7 @@
 ![Git](https://img.shields.io/badge/git-%2328a745.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2328a745.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2328a745.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%2328a745.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
 
