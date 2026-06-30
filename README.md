@@ -25,3 +25,7 @@
     <img src="https://media1.tenor.com/m/Rd0jrWH5JjgAAAAd/cat-scuba.gif" width="300" height="128px">
   </a>
 </p>
+
+<p align="center">
+    <img src="index.svg" alt="Logo" width="200">
+</p>
