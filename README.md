@@ -27,5 +27,5 @@
 </p>
 
 <p align="center">
-    <img src="index.svg" alt="Logo" width="200">
+    <img src="index.svg" width="320" height="445">
 </p>
