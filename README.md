@@ -20,7 +20,7 @@
 </div>
 
 <p align="center">
-    <img src="assets/index.svg" width="320" height="445">
+    <img src="assets/indexSurfCurse.svg" width="320" height="445">
 </p>
 
 <!--
