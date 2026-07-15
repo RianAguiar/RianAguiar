@@ -2,22 +2,22 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%2328a745.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryanwith.i) 
 # 🐸 Wha I've been Learning:
 
-
 <div align="center">
-![Docker](https://img.shields.io/badge/docker-%2328a745.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%2328a745.svg?style=for-the-badge&logo=redis&logoColor=white) 
-    
+
 ![HTML5](https://img.shields.io/badge/html5-%2328a745.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%2328a745.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%2328a745.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2328a745.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%2328a745.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=%2328a745)
 ![Python](https://img.shields.io/badge/python-%2328a745.svg?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%2328a745.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%2328a745.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2328a745.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%2328a745.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2328a745.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%2328a745.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%2328a745.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
